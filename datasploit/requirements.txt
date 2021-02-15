@@ -17,7 +17,7 @@ lxml
 netaddr
 piplapis-python
 pymongo
-python-wappalyzer
+python-wappalyzer==0.2.2
 python-whois
 pytz
 requests
